@@ -17,66 +17,7 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="demo.svg">
   <defs
-     id="defs1544">
-    <symbol
-       id="RoundedBalloon"
-       style="stroke-linejoin:miter;stroke-miterlimit:10">
-      <title
-         id="title4273">Rounded Balloon</title>
-      <rect
-         ry="32"
-         x="21.166666"
-         y="17.197916"
-         width="66.145836"
-         height="31.75"
-         rx="32"
-         style="stroke:none;stroke-width:1"
-         id="rect4275" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 32.808333,47.360417 -7.9375,14.022916 20.6375,-14.022916"
-         style="stroke:none;stroke-width:1"
-         id="path4277" />
-      <rect
-         ry="30"
-         x="19.84375"
-         y="15.875"
-         width="66.145836"
-         height="31.75"
-         rx="30"
-         style="fill:#eeeeee;stroke-width:3.5"
-         id="rect4279" />
-      <path
-         inkscape:connector-curvature="0"
-         d="M 31.75,46.302083 23.8125,60.325 44.45,46.302083"
-         style="fill:#eeeeee;stroke-width:3.5"
-         id="path4281" />
-      <rect
-         ry="25"
-         x="21.166666"
-         y="17.197916"
-         width="62.177082"
-         height="27.78125"
-         rx="25"
-         style="fill:#ffffff;stroke:none;stroke-width:1"
-         id="rect4283" />
-      <path
-         inkscape:connector-curvature="0"
-         d="M 34.925,42.333333 26.9875,56.35625 47.625,42.333333"
-         style="fill:#ffffff;stroke:none;stroke-width:1"
-         id="path4285" />
-    </symbol>
-    <symbol
-       id="Buffer_Small">
-      <title
-         id="title4433">Buffer Small</title>
-      <path
-         style="stroke-width:1"
-         inkscape:connector-curvature="0"
-         d="M 9.9778537,10.583333 16.592437,13.229167 9.9778537,15.875 Z"
-         id="path4435" />
-    </symbol>
-  </defs>
+     id="defs1544" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -84,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="545.6758"
-     inkscape:cy="346.57618"
+     inkscape:zoom="0.35"
+     inkscape:cx="612.34188"
+     inkscape:cy="234.06038"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -95,7 +36,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showborder="false" />
+     showborder="true" />
   <metadata
      id="metadata1547">
     <rdf:RDF>
@@ -116,16 +57,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458302px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#1d29bc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="65.821579"
+       x="60.529911"
        y="166.65878"
        id="text2116"><tspan
          sodipodi:role="line"
-         x="65.821579"
+         x="60.529911"
          y="166.65878"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';fill:#a6a7b3;fill-opacity:1;stroke-width:0.26458332"
          id="tspan9941">f :: Int -&gt; Int -&gt; Int</tspan><tspan
          sodipodi:role="line"
-         x="65.821579"
+         x="60.529911"
          y="184.9856"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
          id="tspan9946"><tspan
@@ -136,25 +77,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="42.34045"
+       x="37.048782"
        y="230.4653"
        id="text2116-2"><tspan
          sodipodi:role="line"
          id="tspan2114-9"
-         x="42.34045"
+         x="37.048782"
          y="230.4653"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';stroke-width:0.26458332"><tspan
    style="fill:#761e11;fill-opacity:1"
    id="tspan9939">main</tspan> = putStrLn (show (f 1 2))</tspan></text>
     <path
        style="opacity:0.25600011;fill:none;stroke:#000000;stroke-width:4.46500015;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 35.887394,239.89064 H 80.254135"
+       d="M 30.595727,239.89064 H 74.962468"
        id="path9953"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path9982"
-       d="M 272.02269,239.89065 H 95.0379"
+       d="M 266.73102,239.89065 H 89.746233"
        style="opacity:0.25600011;fill:none;stroke:#000000;stroke-width:4.46500015;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
