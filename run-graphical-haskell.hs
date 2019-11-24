@@ -33,7 +33,7 @@ main =
         IO.hClose pragmasHandle >>
         IO.hClose importsHandle >>
         IO.hClose declsHandle >>
-        Proc.callCommand (unwords ["cat", importsPath, declsPath, ">", hsPath]) >>
+        Proc.callCommand (unwords ["cat", pragmasPath, importsPath, declsPath, ">", hsPath]) >>
         Proc.callProcess "runhaskell" (hsPath : svgArgs)
       )
 
