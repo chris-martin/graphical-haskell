@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="525.79694mm"
-   height="279.51938mm"
-   viewBox="0 0 525.79693 279.51938"
+   width="679.44879mm"
+   height="393.75558mm"
+   viewBox="0 0 679.44878 393.75559"
    version="1.1"
    id="svg1550"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6228516"
-     inkscape:cx="600.46116"
-     inkscape:cy="567.92507"
+     inkscape:zoom="0.4057129"
+     inkscape:cx="1251.365"
+     inkscape:cy="597.45544"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showborder="true"
      fit-margin-top="20"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,51 +57,47 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.6949081,-57.541864)">
+     transform="translate(140.67539,56.694345)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458302px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';letter-spacing:0px;word-spacing:0px;fill:#1d29bc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="60.529911"
-       y="166.65878"
+       x="98.354279"
+       y="107.9658"
        id="text2116"><tspan
          sodipodi:role="line"
-         x="60.529911"
-         y="166.65878"
+         x="98.354279"
+         y="107.9658"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#a6a7b3;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan9941">f :: T.Text -&gt; Int -&gt; T.Text</tspan><tspan
+         id="tspan9941">f :: forall a. Integral a =&gt;</tspan><tspan
          sodipodi:role="line"
-         x="60.529911"
-         y="184.88147"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan9946"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'"
-   id="tspan9951">f</tspan> txt n <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#0b104a;fill-opacity:1"
-   id="tspan9937">=</tspan> stimes n txt</tspan></text>
+         x="98.354279"
+         y="125.11079"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#a6a7b3;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan9946">      T.Text -&gt; a -&gt; T.Text</tspan></text>
     <ellipse
        style="opacity:1;vector-effect:none;fill:#fbb937;fill-opacity:1;stroke:none;stroke-width:1.46499991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.70299208;stroke-opacity:1"
        id="path12411"
-       cx="50.025478"
-       cy="228.65714"
+       cx="33.069729"
+       cy="209.0928"
        rx="28.33057"
        ry="19.243404" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="37.048782"
-       y="230.4653"
+       x="20.093033"
+       y="210.90097"
        id="text2116-2"><tspan
          sodipodi:role="line"
          id="tspan2114-9"
-         x="37.048782"
-         y="230.4653"
+         x="20.093033"
+         y="210.90097"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';stroke-width:0.26458332"><tspan
    style="fill:#761e11;fill-opacity:1"
-   id="tspan9939">main</tspan> = IO.putStrLn (T.unpack (f (T.pack &quot;hello&quot;) 2))</tspan></text>
+   id="tspan9939">main</tspan> = IO.putStrLn (T.unpack (f &quot;hello&quot; 2))</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path9982"
-       d="M 421.21955,239.19076 H 186.03004"
+       d="M 404.2638,219.62643 H 169.07429"
        style="opacity:0.25600011;fill:none;stroke:#000000;stroke-width:4.46500015;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:type="star"
@@ -120,18 +116,18 @@
        d="m 399.97093,142.51811 c 0.31947,-0.0204 3.13624,5.4034 3.40669,5.57469 0.27045,0.17129 6.37779,0.3995 6.49591,0.69704 0.11812,0.29754 -4.16979,4.65249 -4.24912,4.96263 -0.0793,0.31014 1.5909,6.1891 1.34442,6.39338 -0.24647,0.20428 -5.71331,-2.52801 -6.03279,-2.50762 -0.31948,0.0204 -5.39457,3.42557 -5.66501,3.25428 -0.27045,-0.17128 0.63876,-6.21488 0.52065,-6.51242 -0.11812,-0.29754 -4.92493,-4.07197 -4.8456,-4.38212 0.0793,-0.31014 6.1081,-1.313 6.35457,-1.51728 0.24648,-0.20428 2.3508,-5.94219 2.67028,-5.96258 z"
        inkscape:transform-center-x="0.42197704"
        inkscape:transform-center-y="-1.4460149"
-       transform="matrix(2.1576946,0,0,1.901527,-480.39108,-122.60395)" />
+       transform="matrix(2.1576946,0,0,1.901527,-365.61369,-142.82042)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="183.90169"
-       y="22.061083"
+       x="283.93277"
+       y="-37.741409"
        id="text2116-2-7"
        transform="rotate(20.883227)"><tspan
          sodipodi:role="line"
          id="tspan2114-9-5"
-         x="183.90169"
-         y="22.061083"
+         x="283.93277"
+         y="-37.741409"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.26458332">import qualified System.IO as IO</tspan></text>
     <path
        sodipodi:type="star"
@@ -165,37 +161,52 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.04639816px;line-height:8.35749912px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="293.72641"
-       y="92.845001"
+       x="366.76657"
+       y="29.587009"
        id="text2116-2-0"><tspan
          sodipodi:role="line"
          id="tspan2114-9-2"
-         x="293.72641"
-         y="92.845001"
+         x="366.76657"
+         y="29.587009"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';stroke-width:0.26458332">main :: IO ()</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="25.725227"
-       y="288.64584"
+       x="-30.906191"
+       y="296.02472"
        id="text2116-2-7-0-8"
        transform="rotate(0.86666958)"><tspan
          sodipodi:role="line"
          id="tspan2114-9-5-9-6"
-         x="25.725227"
-         y="288.64584"
+         x="-30.906191"
+         y="296.02472"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.26458332">import Data.Semigroup</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-52.665462"
-       y="164.27336"
+       x="-158.67123"
+       y="87.520561"
        id="text4418"
        transform="rotate(-20)"><tspan
          sodipodi:role="line"
          id="tspan4416"
-         x="-52.665462"
-         y="164.27336"
-         style="stroke-width:0.26458332">{-# language ScopedTypeVariables #-}</tspan></text>
+         x="-158.67123"
+         y="87.520561"
+         style="stroke-width:0.26458332">{-# LANGUAGE ExplicitForAll, ScopedTypeVariables, TypeApplications, OverloadedStrings #-}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';letter-spacing:0px;word-spacing:0px;fill:#1d29bc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.58812"
+       y="159.75128"
+       id="text2116-3"><tspan
+         sodipodi:role="line"
+         x="57.58812"
+         y="159.75128"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan9946-5"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';stroke-width:0.26458332"
+   id="tspan9951-3">f</tspan> txt n <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#0b104a;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan9937-5">=</tspan> stimes (fromIntegral @a n) txt</tspan></text>
   </g>
 </svg>

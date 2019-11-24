@@ -27,22 +27,22 @@ main =
     withSystemTempFile "imports-.hs" $ \importsPath importsHandle ->
     withSystemTempFile "declarations-.hs" $ \declsPath declsHandle ->
     withSystemTempFile "graphical-haskell-.hs" $ \hsPath hsHandle ->
-      (
-        IO.hClose hsHandle >>
-        traverse_ (writeCode pragmasHandle importsHandle declsHandle) (nodeCodeBlocks svgRoot) >>
-        IO.hClose pragmasHandle >>
-        IO.hClose importsHandle >>
-        IO.hClose declsHandle >>
-        Proc.callCommand (unwords ["cat", pragmasPath, importsPath, declsPath, ">", hsPath]) >>
+      do
+        IO.hClose hsHandle
+        traverse_ (writeCode pragmasHandle importsHandle declsHandle)
+                  (nodeCodeBlocks svgRoot)
+        traverse_ IO.hClose [pragmasHandle, importsHandle, declsHandle]
+        Proc.callCommand (unwords [
+            "cat", pragmasPath, importsPath, declsPath, ">", hsPath])
         Proc.callProcess "runhaskell" (hsPath : svgArgs)
-      )
 
 -- Write a block of code to the appropriate handle.
 writeCode :: IO.Handle -> IO.Handle -> IO.Handle -> LBS.ByteString -> IO ()
 writeCode pragmasHandle importsHandle declsHandle code =
-    let h = if LBS.isPrefixOf (LBS8.pack "{-# ") code && LBS.isPrefixOf (LBS8.pack "language ") (LBS8.map C.toLower code)
-            then pragmasHandle else if LBS.isPrefixOf (LBS8.pack "import ") code
-            then importsHandle else declsHandle
+    let h | LBS.isPrefixOf (LBS8.pack "{-# language ") (LBS8.map C.toLower code)
+              = pragmasHandle
+          | LBS.isPrefixOf (LBS8.pack "import ") code = importsHandle
+          | otherwise = declsHandle
     in LBS.hPut h code >> IO.hPutStrLn h ""
 
 -- Find all SVG text nodes and get the text from each.

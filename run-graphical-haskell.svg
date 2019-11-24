@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="873.13666mm"
-   height="1640.4464mm"
-   viewBox="0 0 873.13666 1640.4465"
+   height="1793.9048mm"
+   viewBox="0 0 873.13666 1793.9049"
    version="1.1"
    id="svg1550"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -48,7 +48,7 @@
        xlink:href="#linearGradient11883"
        id="radialGradient11889"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.8049748,-0.33410549,0.20497454,1.1073284,-331.53984,403.30696)"
+       gradientTransform="matrix(1.8049748,-0.33410549,0.20497454,1.1073284,-331.53984,556.76534)"
        cx="395.32352"
        cy="64.95623"
        fx="395.32352"
@@ -63,7 +63,7 @@
        fx="155.37805"
        fy="-592.43713"
        r="412.01715"
-       gradientTransform="matrix(0.98063507,-0.07889514,0.03740022,0.63032742,-46.824015,180.25302)"
+       gradientTransform="matrix(0.98063507,-0.06288577,0.03740022,0.5024217,-46.824015,48.516969)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -73,17 +73,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.65053824"
-     inkscape:cx="1508.6864"
-     inkscape:cy="3654.7377"
+     inkscape:zoom="0.16263456"
+     inkscape:cx="2004.3011"
+     inkscape:cy="3162.1779"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="960"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
      showborder="true"
      fit-margin-top="50"
      fit-margin-left="20"
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,14 +109,23 @@
      id="layer1"
      transform="translate(57.537337,1012.8576)">
     <rect
-       style="opacity:1;vector-effect:none;fill:url(#radialGradient11903);fill-opacity:1;stroke:none;stroke-width:1.46499991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.70299208;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#dff5e3;fill-opacity:1;stroke:none;stroke-width:1.086;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.70299208;stroke-opacity:1"
+       id="rect1767"
+       width="824.0343"
+       height="246.6898"
+       x="-32.98616"
+       y="-3.5738251"
+       rx="25.702391"
+       ry="26.435953" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:url(#radialGradient11903);fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.70299208;stroke-opacity:1"
        id="rect11873"
        width="824.0343"
-       height="572.57465"
+       height="456.38809"
        x="-32.98616"
-       y="-468.95023"
+       y="-468.95026"
        rx="25.702391"
-       ry="25.702385" />
+       ry="25.702391" />
     <rect
        ry="26.435953"
        rx="25.702391"
@@ -130,26 +139,26 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';letter-spacing:0px;word-spacing:0px;fill:#1d29bc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="50.33279"
-       y="-658.45813"
+       y="-700.79163"
        id="text2116-2"><tspan
          sodipodi:role="line"
          x="50.33279"
-         y="-658.45813"
+         y="-700.79163"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10007-0">import Control.Exception (throw)</tspan><tspan
          sodipodi:role="line"
          x="50.33279"
-         y="-641.31311"
+         y="-683.64661"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10034">import Data.Foldable (traverse_)</tspan><tspan
          sodipodi:role="line"
          x="50.33279"
-         y="-624.16815"
+         y="-666.50165"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10036">import System.Environment (getArgs)</tspan><tspan
          sodipodi:role="line"
          x="50.33279"
-         y="-607.02313"
+         y="-649.35663"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10040">import System.IO.Temp (withSystemTempFile)</tspan></text>
     <text
@@ -185,127 +194,170 @@
          id="tspan10098">import qualified Data.ByteString.Char8 as BS8</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.98236954px;line-height:15.18078327px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#330e59;fill-opacity:1;stroke:none;stroke-width:0.52405149;"
-       x="1.9601305"
-       y="-325.57648"
-       id="text2116-2-9-6"
-       transform="scale(0.85892027,1.1642524)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.39693069px;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#330e59;fill-opacity:1;stroke:none;stroke-width:0.52405155"
+       x="14.63806"
+       y="-405.84457"
+       id="text2116-2-9-6"><tspan
          sodipodi:role="line"
-         id="tspan4176">main =</tspan><tspan
+         id="tspan4176"
+         x="14.63806"
+         y="-405.84457"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">main =</tspan><tspan
          sodipodi:role="line"
-         id="tspan4178">    getArgs &gt;&gt;= \(svgPath : svgArgs) -&gt;</tspan><tspan
+         id="tspan4178"
+         x="14.63806"
+         y="-382.49774"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">    getArgs &gt;&gt;= \(svgPath : svgArgs) -&gt;</tspan><tspan
          sodipodi:role="line"
-         id="tspan4180">    BS.readFile svgPath &gt;&gt;= \bs -&gt;</tspan><tspan
+         id="tspan4180"
+         x="14.63806"
+         y="-359.15091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">    BS.readFile svgPath &gt;&gt;= \bs -&gt;</tspan><tspan
          sodipodi:role="line"
-         id="tspan4182">    either throw return (X.parse bs) &gt;&gt;= \svgRoot -&gt;</tspan><tspan
+         id="tspan4182"
+         x="14.63806"
+         y="-335.80408"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">    either throw return (X.parse bs) &gt;&gt;= \svgRoot -&gt;</tspan><tspan
          sodipodi:role="line"
-         id="tspan4184">    withSystemTempFile &quot;pragmas-.hs&quot; $ \pragmasPath pragmasHandle -&gt;</tspan><tspan
+         id="tspan4184"
+         x="14.63806"
+         y="-312.45724"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">    withSystemTempFile &quot;pragmas-.hs&quot; $ \pragmasPath pragmasHandle -&gt;</tspan><tspan
          sodipodi:role="line"
-         id="tspan4186">    withSystemTempFile &quot;imports-.hs&quot; $ \importsPath importsHandle -&gt;</tspan><tspan
+         id="tspan4186"
+         x="14.63806"
+         y="-289.11041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">    withSystemTempFile &quot;imports-.hs&quot; $ \importsPath importsHandle -&gt;</tspan><tspan
          sodipodi:role="line"
-         id="tspan4188">    withSystemTempFile &quot;declarations-.hs&quot; $ \declsPath declsHandle -&gt;</tspan><tspan
+         id="tspan4188"
+         x="14.63806"
+         y="-265.76358"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">    withSystemTempFile &quot;declarations-.hs&quot; $ \declsPath declsHandle -&gt;</tspan><tspan
          sodipodi:role="line"
-         id="tspan4190">    withSystemTempFile &quot;graphical-haskell-.hs&quot; $ \hsPath hsHandle -&gt;</tspan><tspan
+         id="tspan4190"
+         x="14.63806"
+         y="-242.41675"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">    withSystemTempFile &quot;graphical-haskell-.hs&quot; $ \hsPath hsHandle -&gt;</tspan><tspan
          sodipodi:role="line"
-         id="tspan4192">      (</tspan><tspan
+         id="tspan4192"
+         x="14.63806"
+         y="-219.0699"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">      do</tspan><tspan
          sodipodi:role="line"
-         id="tspan4194">        IO.hClose hsHandle &gt;&gt;</tspan><tspan
+         id="tspan4194"
+         x="14.63806"
+         y="-195.72307"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">        IO.hClose hsHandle</tspan><tspan
          sodipodi:role="line"
-         id="tspan4196">        traverse_ (writeCode pragmasHandle importsHandle declsHandle) (nodeCodeBlocks svgRoot) &gt;&gt;</tspan><tspan
+         x="14.63806"
+         y="-172.37624"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155"
+         id="tspan1759">        traverse_ (writeCode pragmasHandle importsHandle declsHandle)</tspan><tspan
          sodipodi:role="line"
-         id="tspan4198">        IO.hClose pragmasHandle &gt;&gt;</tspan><tspan
+         x="14.63806"
+         y="-149.0294"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155"
+         id="tspan1763">                  (nodeCodeBlocks svgRoot)</tspan><tspan
          sodipodi:role="line"
-         id="tspan4200">        IO.hClose importsHandle &gt;&gt;</tspan><tspan
+         id="tspan4202"
+         x="14.63806"
+         y="-125.68257"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">        traverse_ IO.hClose [pragmasHandle, importsHandle, declsHandle]</tspan><tspan
          sodipodi:role="line"
-         id="tspan4202">        IO.hClose declsHandle &gt;&gt;</tspan><tspan
+         id="tspan4204"
+         x="14.63806"
+         y="-102.33574"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">        Proc.callCommand (unwords [</tspan><tspan
          sodipodi:role="line"
-         id="tspan4204">        Proc.callCommand (unwords [&quot;cat&quot;, pragmasPath, importsPath, declsPath, &quot;&gt;&quot;, hsPath]) &gt;&gt;</tspan><tspan
+         x="14.63806"
+         y="-78.988907"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155"
+         id="tspan1765">            &quot;cat&quot;, pragmasPath, importsPath, declsPath, &quot;&gt;&quot;, hsPath])</tspan><tspan
          sodipodi:role="line"
-         id="tspan4206">        Proc.callProcess &quot;runhaskell&quot; (hsPath : svgArgs)</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4208">      )</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4210"></tspan></text>
+         id="tspan4210"
+         x="14.63806"
+         y="-55.642075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:23.34683418px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.52405155">        Proc.callProcess &quot;runhaskell&quot; (hsPath : svgArgs)</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:url(#radialGradient11889);fill-opacity:1;stroke:none;stroke-width:1.46499991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.70299208;stroke-opacity:1"
        id="rect11443"
        width="820.20831"
        height="505.1965"
        x="-29.160168"
-       y="112.39231"
+       y="265.85068"
        rx="25.702391"
        ry="25.702389" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.16729259px;line-height:6.22963858px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="1.7184001"
-       y="257.33682"
+       y="410.79501"
        id="text2116-2-9-6-7"><tspan
          sodipodi:role="line"
          x="1.7184001"
-         y="257.33682"
+         y="410.79501"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.16729259px;line-height:16.14722443px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10365">nodeCodeBlocks :: X.Node -&gt; [LBS.ByteString]</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.11190987px;line-height:8.39162064px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#3c8815;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="21.514845"
-       y="213.10226"
+       x="12.672692"
+       y="366.30563"
        id="text2116-3"
        transform="rotate(-3.30317)"><tspan
          sodipodi:role="line"
-         x="21.514845"
-         y="213.10226"
+         x="12.672692"
+         y="366.30563"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:21.75107956px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#3c8815;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10007-9">{- Find all SVG text nodes and</tspan><tspan
          sodipodi:role="line"
-         x="21.514845"
-         y="234.85335"
+         x="12.672692"
+         y="388.0567"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:21.75107956px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#3c8815;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10367">   get the text from each. -}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.96378517px;line-height:7.14944029px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="360.09424"
-       y="246.57176"
+       y="400.02997"
        id="text2116-2-9-6-7-4"><tspan
          sodipodi:role="line"
          x="360.09424"
-         y="246.57176"
+         y="400.02997"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.96378517px;line-height:18.53135109px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10436">nodeText :: X.Node -&gt; BSB.Builder</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#3c8815;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="513.24353"
-       y="162.58858"
+       x="527.41962"
+       y="315.39078"
        id="text2116-3-1"
        transform="rotate(5.3003428)"><tspan
          sodipodi:role="line"
-         x="513.24353"
-         y="162.58858"
+         x="527.41962"
+         y="315.39078"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#3c8815;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10367-6">{- Extract all of the text from a node. -}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99655247px;line-height:7.67821598px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335"
        x="404.21793"
-       y="332.77554"
+       y="486.23373"
        id="text2116-2-9-6-7-3"><tspan
          sodipodi:role="line"
          x="404.21793"
-         y="332.77554"
+         y="486.23373"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99655247px;line-height:19.90193748px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458335"
          id="tspan10526">nodeIsLine :: X.Node -&gt; Bool</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.9741354px;line-height:6.64274073px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="7.9509301"
-       y="429.17859"
+       y="582.63702"
        id="text2116-2-9-6-7-7"><tspan
          sodipodi:role="line"
          x="7.9509301"
-         y="429.17859"
+         y="582.63702"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9741354px;line-height:17.21798515px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10595"><tspan
            id="tspan11677"
@@ -313,152 +365,151 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.78691673px;line-height:8.743186px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#3c8815;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="33.101967"
-       y="384.50735"
+       x="43.888897"
+       y="537.58594"
        id="text2116-3-2"
        transform="rotate(4.0307685)"><tspan
          sodipodi:role="line"
-         x="33.101967"
-         y="384.50735"
+         x="43.888897"
+         y="537.58594"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:22.66233826px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#3c8815;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10367-4">{- Extract all of the text from node content. -}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.34931469px;line-height:6.32283306px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="309.76157"
-       y="504.16351"
+       y="657.62207"
        id="text2116-2-9-6-7-7-7"><tspan
          sodipodi:role="line"
          x="309.76157"
-         y="504.16351"
+         y="657.62207"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.34931469px;line-height:16.38878441px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10664">unescapeEntitiesLBS :: LBS.ByteString -&gt; LBS.ByteString</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.82943821px;line-height:6.56865549px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="310.44775"
-       y="548.08606"
+       y="701.54468"
        id="text2116-2-9-6-7-7-7-8"><tspan
          sodipodi:role="line"
          x="310.44775"
-         y="548.08606"
+         y="701.54468"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.82943821px;line-height:17.02595711px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10697">unescapeEntitiesLT :: LT.Text -&gt; LT.Text</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.16752625px;line-height:16.0485096px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#291e06;fill-opacity:1;stroke:none;stroke-width:0.46883759"
-       x="-8.3243189"
-       y="-0.30529392"
-       id="text2116-2-9-6-7-7-4"
-       transform="scale(0.7927053,1.2615029)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.7973423px;line-height:18.56399536px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#291e06;fill-opacity:1;stroke:none;stroke-width:0.46883759"
+       x="16.07855"
+       y="102.01982"
+       id="text2116-2-9-6-7-7-4"><tspan
          sodipodi:role="line"
          id="tspan4162"
-         x="-8.3243189"
-         y="-0.30529392"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.16752625px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759">writeCode pragmasHandle importsHandle declsHandle code =</tspan><tspan
+         x="16.07855"
+         y="102.01982"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7973423px;line-height:18.56399536px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759">writeCode pragmasHandle importsHandle declsHandle code =</tspan><tspan
          sodipodi:role="line"
-         id="tspan4164"
-         x="-8.3243189"
-         y="15.743216"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.16752625px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759">    let h = if LBS.isPrefixOf (LBS8.pack &quot;{-# &quot;) code &amp;&amp; LBS.isPrefixOf (LBS8.pack &quot;language &quot;) (LBS8.map C.toLower code)</tspan><tspan
+         x="16.07855"
+         y="120.58382"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7973423px;line-height:18.56399536px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759"
+         id="tspan1743">    let h | LBS.isPrefixOf (LBS8.pack &quot;{-# language &quot;) (LBS8.map C.toLower code)</tspan><tspan
          sodipodi:role="line"
-         id="tspan4166"
-         x="-8.3243189"
-         y="31.791725"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.16752625px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759">            then pragmasHandle else if LBS.isPrefixOf (LBS8.pack &quot;import &quot;) code</tspan><tspan
+         x="16.07855"
+         y="139.14781"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7973423px;line-height:18.56399536px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759"
+         id="tspan1749">              = pragmasHandle</tspan><tspan
          sodipodi:role="line"
          id="tspan4168"
-         x="-8.3243189"
-         y="47.840233"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.16752625px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759">            then importsHandle else declsHandle</tspan><tspan
+         x="16.07855"
+         y="157.71181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7973423px;line-height:18.56399536px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759">          | LBS.isPrefixOf (LBS8.pack &quot;import &quot;) code = importsHandle</tspan><tspan
          sodipodi:role="line"
-         id="tspan4170"
-         x="-8.3243189"
-         y="63.888744"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.16752625px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759">    in LBS.hPut h code &gt;&gt; IO.hPutStrLn h &quot;&quot;</tspan><tspan
+         x="16.07855"
+         y="176.2758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7973423px;line-height:18.56399536px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759"
+         id="tspan1757">          | otherwise = declsHandle</tspan><tspan
          sodipodi:role="line"
          id="tspan4172"
-         x="-8.3243189"
-         y="79.937256"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.16752625px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759"></tspan></text>
+         x="16.07855"
+         y="194.8398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7973423px;line-height:18.56399536px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.46883759">    in LBS.hPut h code &gt;&gt; IO.hPutStrLn h &quot;&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.82751942px;line-height:7.72266626px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#3c8815;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="355.56467"
-       y="-75.505241"
+       x="357.86856"
+       y="19.716885"
        id="text2116-3-0"
        transform="rotate(1.3860883)"><tspan
          sodipodi:role="line"
-         x="355.56467"
-         y="-75.505241"
+         x="357.86856"
+         y="19.716885"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:20.01715088px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#3c8815;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10367-8">{- Write a block of code to the appropriate handle. -}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:4.33492231px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="331.31985"
-       y="568.40698"
+       y="721.8656"
        id="text2116-2-9-6-7-7-7-8-9"><tspan
          sodipodi:role="line"
          x="331.31985"
-         y="568.40698"
+         y="721.8656"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10695-6">unescapeEntitiesLT = let r a b = LT.replace (LT.pack a) (LT.pack b) in</tspan><tspan
          sodipodi:role="line"
          x="331.31985"
-         y="579.64313"
+         y="733.10175"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10697-6">    r &quot;&amp;amp;&quot; &quot;&amp;&quot; . r &quot;&amp;lt;&quot; &quot;&lt;&quot; . r &quot;&amp;gt;&quot; &quot;&gt;&quot; . r &quot;&amp;quot;&quot; &quot;\&quot;&quot; . r &quot;&amp;apos;&quot; &quot;'&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:4.33492231px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="339.88702"
-       y="523.43188"
+       y="676.8905"
        id="text2116-2-9-6-7-7-7-4"><tspan
          sodipodi:role="line"
          x="339.88702"
-         y="523.43188"
+         y="676.8905"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10664-5">unescapeEntitiesLBS = LT.encodeUtf8 . unescapeEntitiesLT . LT.decodeUtf8</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#3c8815;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="12.668564"
-       y="542.53943"
+       x="3.8264058"
+       y="695.74316"
        id="text2116-3-04"
        transform="rotate(-3.3031701)"><tspan
          sodipodi:role="line"
-         x="12.668564"
-         y="542.53943"
+         x="3.8264058"
+         y="695.74316"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#3c8815;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11559">{- Interpreting XML escape sequences,</tspan><tspan
          sodipodi:role="line"
-         x="12.668564"
-         y="559.68445"
+         x="3.8264058"
+         y="712.88818"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#3c8815;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11575">   e.g. replacing &amp;gt; with &gt;    -}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.69691849px;line-height:11.30047703px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="353.15039"
-       y="160.6588"
+       y="314.11707"
        id="text11593"><tspan
          sodipodi:role="line"
          id="tspan11591"
          x="353.15039"
-         y="160.6588"
+         y="314.11707"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#a8a8a8;fill-opacity:1;stroke-width:0.26458332">import qualified Xeno.DOM as X</tspan></text>
     <text
        transform="rotate(-3.3031701)"
        id="text11599"
-       y="172.32037"
-       x="-6.6163468"
+       y="325.52377"
+       x="-15.458508"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.77584076px;line-height:11.34158421px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#3c8815;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan11597"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:29.39738655px;font-family:Merriweather;-inkscape-font-specification:'Merriweather Bold';fill:#3c8815;fill-opacity:1;stroke-width:0.26458332"
-         y="172.32037"
-         x="-6.6163468"
+         y="325.52377"
+         x="-15.458508"
          sodipodi:role="line"><tspan
            style="font-size:24.19537735px;stroke-width:0.26458332"
            id="tspan11607">-- </tspan><tspan
@@ -468,104 +519,104 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:4.33492231px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="420.99045"
-       y="351.58646"
+       y="505.04465"
        id="text2116-2-9-6-7-3-9"><tspan
          sodipodi:role="line"
          x="420.99045"
-         y="351.58646"
+         y="505.04465"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10524-5">nodeIsLine node =</tspan><tspan
          sodipodi:role="line"
          x="420.99045"
-         y="362.82257"
+         y="516.28076"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10526-4">    lookup (BS8.pack &quot;sodipodi:role&quot;) (X.attributes node)</tspan><tspan
          sodipodi:role="line"
          x="420.99045"
-         y="374.05869"
+         y="527.51691"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11639">        ==</tspan><tspan
          sodipodi:role="line"
          x="420.99045"
-         y="385.2948"
+         y="538.75299"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11641">    Just (BS8.pack &quot;line&quot;)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:4.33492231px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="19.009903"
-       y="446.62109"
+       y="600.07959"
        id="text2116-2-9-6-7-7-42"><tspan
          sodipodi:role="line"
          x="19.009903"
-         y="446.62109"
+         y="600.07959"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10591-1">contentText (X.Element node) = nodeText node</tspan><tspan
          sodipodi:role="line"
          x="19.009903"
-         y="457.85721"
+         y="611.31573"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10593-6">contentText (X.Text bs) = BSB.lazyByteString</tspan><tspan
          sodipodi:role="line"
          x="19.009903"
-         y="469.09332"
+         y="622.55182"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11905">    (unescapeEntitiesLBS (LBS.fromStrict bs))</tspan><tspan
          sodipodi:role="line"
          x="19.009903"
-         y="480.32944"
+         y="633.78796"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10595-1">contentText (X.CData bs) = BSB.byteString bs</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:4.33492231px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="32.838196"
-       y="276.61447"
+       y="430.07266"
        id="text2116-2-9-6-7-7-3"><tspan
          sodipodi:role="line"
          x="32.838196"
-         y="276.61447"
+         y="430.07266"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11719">nodeCodeBlocks node</tspan><tspan
          sodipodi:role="line"
          x="32.838196"
-         y="287.85059"
+         y="441.30878"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11916">    | X.name node == BS8.pack &quot;text&quot; =</tspan><tspan
          sodipodi:role="line"
          x="32.838196"
-         y="299.0867"
+         y="452.54489"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11920">          [BSB.toLazyByteString (nodeText node)]</tspan><tspan
          sodipodi:role="line"
          x="32.838196"
-         y="310.32281"
+         y="463.78101"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11918">    | otherwise =</tspan><tspan
          sodipodi:role="line"
          x="32.838196"
-         y="321.55896"
+         y="475.01715"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11922">          foldMap nodeCodeBlocks (X.children node)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:4.33492231px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="369.56317"
-       y="266.03992"
+       y="419.49811"
        id="text2116-2-9-6-7-4-7"><tspan
          sodipodi:role="line"
          x="369.56317"
-         y="266.03992"
+         y="419.49811"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10432-2">nodeText node =</tspan><tspan
          sodipodi:role="line"
          x="369.56317"
-         y="277.27603"
+         y="430.73422"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10434-1">    foldMap contentText (X.contents node) &lt;&gt;</tspan><tspan
          sodipodi:role="line"
          x="369.56317"
-         y="288.51215"
+         y="441.97034"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:11.23611927px;font-family:'Fira code';-inkscape-font-specification:'Fira code Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10436-0">    if nodeIsLine node then BSB.byteString (BS8.pack &quot;\n&quot;) else mempty</tspan></text>
     <text
@@ -599,17 +650,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';letter-spacing:0px;word-spacing:0px;fill:#1d29bc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="48.553066"
-       y="-558.43427"
+       x="49.096046"
+       y="-611.35114"
        id="text2116-2-9-8-2"><tspan
          sodipodi:role="line"
-         x="48.553066"
-         y="-558.43427"
+         x="49.096046"
+         y="-611.35114"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
          id="tspan10098-5-3">import qualified System.IO as IO</tspan><tspan
          sodipodi:role="line"
-         x="48.553066"
-         y="-541.28925"
+         x="49.096046"
+         y="-594.20612"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
          id="tspan12272">import qualified System.Process as Proc</tspan></text>
     <text
@@ -637,12 +688,14 @@
          id="tspan12021-2">main :: IO ()</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.57337516px;line-height:8.11122036px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';letter-spacing:0px;word-spacing:0px;fill:#281d06;fill-opacity:1;stroke:none;stroke-width:0.26458332;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.57337475px;line-height:8.11122036px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#281d06;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-6.6139693"
-       y="-23.615812"
+       y="71.634186"
        id="text2116-2-9-6-7-7-4-4"><tspan
          sodipodi:role="line"
-         id="tspan4174">writeCode :: IO.Handle -&gt; IO.Handle -&gt; IO.Handle -&gt; LBS.ByteString -&gt; IO ()</tspan></text>
+         id="tspan4174"
+         x="-6.6139693"
+         y="71.634186">writeCode :: IO.Handle -&gt; IO.Handle -&gt; IO.Handle -&gt; LBS.ByteString -&gt; IO ()</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.22902679px;line-height:21.99428749px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -678,13 +731,15 @@
          sodipodi:role="line">{- It is the definition of Graphical Haskell, written in Graphical Haskell. -}</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.08199941px;line-height:10.98029613px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';letter-spacing:0px;word-spacing:0px;fill:#3c8815;fill-opacity:1;stroke:none;stroke-width:0.26458332;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-       x="509.82556"
-       y="-643.54907"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.08199883px;line-height:10.98029613px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c8815;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.48553"
+       y="-552.06647"
        id="text2116-3-1-8-3"
        transform="rotate(5.3003432)"><tspan
          sodipodi:role="line"
-         id="tspan4017">{- Characters -}</tspan></text>
+         id="tspan4017"
+         x="111.48553"
+         y="-552.06647">{- Characters -}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -694,17 +749,17 @@
          sodipodi:role="line"
          id="tspan4019"
          x="431.36664"
-         y="-567.21106"
-         style="stroke-width:0.26458332"></tspan></text>
+         y="-567.47681"
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458349px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1d29bc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="409.02176"
-       y="-572.80725"
+       x="47.859287"
+       y="-509.35977"
        id="text2116-2-9-8-2-2"><tspan
          sodipodi:role="line"
          id="tspan4046"
-         x="409.02176"
-         y="-572.80725">import qualified Data.Char as C</tspan></text>
+         x="47.859287"
+         y="-509.35977">import qualified Data.Char as C</tspan></text>
   </g>
 </svg>
