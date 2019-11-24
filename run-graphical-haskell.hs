@@ -13,21 +13,19 @@ import qualified Data.ByteString.Builder as BSB
 import qualified Data.ByteString.Char8 as BS8
 import qualified Data.Text.Lazy as LT
 import qualified Data.Text.Lazy.Encoding as LT
-import qualified Data.Text.Lazy.Builder as TB
 import qualified Xeno.DOM as X
 import qualified System.IO as IO
 
 main :: IO ()
 main =
-    getArgs >>= \[svgPath] ->
+    getArgs >>= \(svgPath : svgArgs) ->
     BS.readFile svgPath >>= \bs ->
     either throw return (X.parse bs) >>= \svgRoot ->
     withSystemTempFile "graphical-haskell-program-.hs" $ \hsPath hsHandle ->
       (
         traverse_ (writeCode hsHandle) (nodeCodeBlocks svgRoot) >>
         IO.hClose hsHandle >>
-        callProcess "cat" [hsPath] >>
-        callProcess "runhaskell" [hsPath]
+        callProcess "runhaskell" (hsPath : svgArgs)
       )
 
 -- Find all SVG text nodes and get the text from each.
