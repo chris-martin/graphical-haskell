@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16263456"
-     inkscape:cx="935.165"
-     inkscape:cy="1316.4568"
+     inkscape:zoom="0.23"
+     inkscape:cx="2500.0596"
+     inkscape:cy="1493.4612"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,22 +54,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,703)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458302px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#1d29bc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="74.302963"
-       y="-646.41547"
-       id="text2116"><tspan
-         sodipodi:role="line"
-         x="74.302963"
-         y="-646.41547"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan9946">#!/usr/bin/env stack</tspan><tspan
-         sodipodi:role="line"
-         x="74.302963"
-         y="-629.27045"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:17.14500046px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#1d29bc;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan10007">-- stack --resolver lts-14.15 runhaskell --package xeno --package temporary --package bytestring</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#f5e4be;fill-opacity:1;stroke:none;stroke-width:1.46499991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.70299208;stroke-opacity:1"
        id="rect10770"
