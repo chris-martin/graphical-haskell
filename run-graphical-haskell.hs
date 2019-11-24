@@ -11,6 +11,7 @@ import qualified Data.ByteString.Lazy as LBS
 import qualified Data.ByteString.Builder as BSB
 import qualified Data.ByteString.Char8 as BS8
 import qualified Data.ByteString.Lazy.Char8 as LBS8
+import qualified Data.Char as C
 import qualified Data.Text.Lazy as LT
 import qualified Data.Text.Lazy.Encoding as LT
 import qualified Xeno.DOM as X
@@ -22,12 +23,14 @@ main =
     getArgs >>= \(svgPath : svgArgs) ->
     BS.readFile svgPath >>= \bs ->
     either throw return (X.parse bs) >>= \svgRoot ->
+    withSystemTempFile "pragmas-.hs" $ \pragmasPath pragmasHandle ->
     withSystemTempFile "imports-.hs" $ \importsPath importsHandle ->
     withSystemTempFile "declarations-.hs" $ \declsPath declsHandle ->
     withSystemTempFile "graphical-haskell-.hs" $ \hsPath hsHandle ->
       (
         IO.hClose hsHandle >>
-        traverse_ (writeCode importsHandle declsHandle) (nodeCodeBlocks svgRoot) >>
+        traverse_ (writeCode pragmasHandle importsHandle declsHandle) (nodeCodeBlocks svgRoot) >>
+        IO.hClose pragmasHandle >>
         IO.hClose importsHandle >>
         IO.hClose declsHandle >>
         Proc.callCommand (unwords ["cat", importsPath, declsPath, ">", hsPath]) >>
@@ -35,9 +38,10 @@ main =
       )
 
 -- Write a block of code to the appropriate handle.
-writeCode :: IO.Handle -> IO.Handle -> LBS.ByteString -> IO ()
-writeCode importsHandle declsHandle code =
-    let h = if LBS.isPrefixOf (LBS8.pack "import ") code
+writeCode :: IO.Handle -> IO.Handle -> IO.Handle -> LBS.ByteString -> IO ()
+writeCode pragmasHandle importsHandle declsHandle code =
+    let h = if LBS.isPrefixOf (LBS8.pack "{-# ") code && LBS.isPrefixOf (LBS8.pack "language ") (LBS8.map C.toLower code)
+            then pragmasHandle else if LBS.isPrefixOf (LBS8.pack "import ") code
             then importsHandle else declsHandle
     in LBS.hPut h code >> IO.hPutStrLn h ""
 
